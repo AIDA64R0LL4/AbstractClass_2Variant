@@ -1,0 +1,1 @@
+# AbstractClass_2Variant
